@@ -1,489 +1,1530 @@
-# Get Started with Cyber Security
 
-##### What is the importance of Cyber Security ?
+<Callout type="info" emoji="💡">
+    <div >
+        <h5 className="text-left h-10 text-gray-400 font-extrabold md:text-1xl mt-0 mb-0" > Click here if you would like to modify or contribute </h5>
+        <a href="https://github.com/Subham-Maity/cyber-security" target="_blank">
+            <img align="left"
+                 alt="GitHub"
+                 src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+            />
+            <p align="left">
+                <img src="https://media1.giphy.com/media/2HCaWITqHdJmmEA2b7/giphy.webp?cid=ecf05e47oblnld6xqs4q4svq3w8lnpcltavzi667j872uwq7&rid=giphy.webp&ct=s"  width="50"/>
+            </p>
+        </a>
+    </div>
+</Callout>
 
-(A) It protects all categories of data from theft and damage. This includes sensitive data, personally identifiable information (PII)
-
-(B) protected health information (PHI)
-
-(C) personal information, intellectual property
-
-(D) governmental and industry information systems.
-
-(D) All of these
-
-<details>
-  <summary>Answer</summary>
-All of these
-</details>
-
-
-##### The practice of buying 'domain names' that have existing business names and selling it back to the rightful owner at much higher price is
-
-(A) Cyberterrorism
-
-(B) Cybersquatting
-
-(C) Cyberwarfare
-
-(D) Forgery
-
-Answer:
-
-<details>
-  <summary>Answer</summary>
-Cybersquatting
-</details>
-
-##### Discuss the roll of Cloud Computing in Cyber Security ?
-<details>
-  <summary>Answer</summary>
-  Cloud computing and cyber security are the two advanced sectors in IT world making huge changes of working pattern in the
-  field. When these two merge it opens a wide range of possibilities. The cloud computing security provides companies with the
-  availability, reliability, and security they need to conduct business in a global marketplace. Advanced cyber security features
-  combine with physical infrastructure to create a comprehensive, secure solution to your cloud computing needs.
-
-  As companies migrate more and more of their data and infrastructure to the cloud, the question of cloud computing security
-  becomes paramount. Cloud security provides multiple levels of control in a network infrastructure to afford continuity and
-  protection. It's an essential ingredient in creating an environment that works for companies around the world. The benefits of
-  cloud computing can be affordably attained by partnering with advanced private cloud computing providers- in a way that doesn't
-  jeopardize your company's security.
-
-  At a time when cyber attacks are growing worldwide, and high-profile cybercrime such as data theft, ransomware and computer
-  hacks have become the order of the day, experts believe that cloud computing may provide the security against cyber threats that
-  companies need. They reason that Cloud helps security operations respond quicker to threats and focus on business risk as
-  opposed to spending countless hours researching threats and trouble-shooting aging on-premises systems. It also saves a
-  substantial cost for organizations in the long run.
-</details>
+# Basic Idea With Question Answering
 
 
+## Message from the Writer
+<div class="pb-4"></div>
 
-##### Write down the basic safety and security tips to prevent cybercafe from cyber threats ?
+<div style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "255px 15px 225px 15px/15px 225px 15px 255px" ,overflow: "hidden" ,boxShadow : "20px 38px 34px -26px hsla(0,0%,0%,.2)", padding : "2px"}  }>
+    <div align="center">
 
-<details>
-  <summary>Answer</summary>
-  Computers at public places such as internet cafe's can be a great place for hackers to glean sensitive information when we use the
-  internet.
-  Here we suggest a few safety tips / countermeasures that will reduce the risk of getting hacked. For one-stop-shop protection
-  seriously consider purchasing a IronKey USB device. This should keep machines safe and offer more protection than the
-  countermeasures produced below. The IronKey in addition to providing an effective countermeasure to the exploits discussed
-  above, also provides password protected hardware encryption that facilitate the secure storage of sensitive data. The IronKey
-  has won numerous awards amongst the security community and is widely trusted and used by US. government agencies and
-  fortune 500 companies. The countermeasures without the use of an IronKey are:
-  - Shoulder Surfers - Nothing technical here, just good observation I awareness skills. Need to be aware of the people around when
-  typing in login details of any sort if there are people in the cyber cafe watching others, cover the keyboard when logging in.
-
-  - **Phishing Scams** - Use more up-to-date versions of a browser when using the internet ia a cyber cafe as they have anti-Phishing
-  measures built into them. How do we run a modern browser when the version installed in the internet cafe is old? The options are
-  to download and install it (which may not be possible due to restrictions), however a better way is to use portable apps
-  (www.portableapps.com) and prepare a USB Flash Drive with the latest version of firefox. This will give the option to "carry the
-  application with you" and use it on any Windows machine. Also all browsing history will be stored on your USB Flash Drive and
-  leave no remnants on the computer. However be aware that any digital certificates are stored on the computer and will need to
-  be deleted A little education on how to identify a phishing site is the best form of protection, take a short quiz to see if you can
-  recognise phishing websites and see if you can tell between a genuine site and a phishing site. After the quiz you will be well
-  aware of how to spot a phishing site and ensure safety of online identity.
-
-  - **Network Sniffer** - Most popular sites are secure as they protect credentials (user id and password) by encrypting them. However
-  you should be mindful about the typical surfing
-  habits performed in cyber cafe's. The messages on Email and Instant Messaging are not secure by default. Messages sent and
-  received are not encrypted and can be captured by the Network Sniffer, if installed on the internet cafe computer. Do not send
-  emails or messages by instant messenger which contain sensitive information. If we need to send a sensitive message, consider
-  using a browser which utilises the "Tor anonymity network" (a technology to maintains anonymity). The Tor project are now
-  offering a portable browse built upon firefox. This offering is known as the Tor Browser Bundle and can be downloaded from the
-  link previous. The Tor Bundle is a free which can be run off a USB flash memory. The Tor network is rather slow, however it will
-  ensure your session is encrypted and the Sniffer in the cyber cafe rendered useless. Be aware that there are Tor Browser Bundle
-  has limitations such as flash video and javascript are disabled and do not work. This may result in certain websites not functioning.
-  So it may be better to fire up Tor Browser Bundle when you need to send something sensitive or keep your anonymity in the
-  internet cafe. On-line Banking on the other hand is quite secure as your session is normally encrypted (provided the machine has
-  not been compromised (e.g., modified hosts file) to redirect the online banking requests to a phishing site)or your credentials
-  stolen by a keylogger trojan.
-
-  - **Key loggers:**
-  There are various approaches that can take to protect against keyloggers. There are suggestions on other websites that using
-  virtual keyboards or cut and paste methods can bypass the keyloggers. The author has tested a few virtual keyboards that are
-  marketed as offering protection against keyloggers, however the the keystrokes have been captured. Virtual keyboards certainly
-  offer protection to hardware keyloggers, however sophisticated software keyloggers, sometimes installed as spyware / trojans
-  can capture input from 'cut and paste' and virtual keyboard keypresses.
+        <h2 class= "mt-4 p-4" align="left">Author</h2>
+        <p align="center">
+            <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "255px 15px 225px 15px/15px 225px 15px 255px" ,overflow: "hidden" ,boxShadow : "20px 38px 34px -26px hsla(0,0%,0%,.2)"}  }  src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/>
+        </p>
+    </div>
+    <p class = "p-8  font-bold"  align="center" >Here you will learn about basic of Cyber Security .</p>
+    <h7 class = "p-8" align="center">
+        **I hope you will enjoy it. If you have any questions, please feel free to ask me in the comment section. I will try to answer your questions as soon as possible. Are you exited to learn about the Basic?**
+    </h7>
+</div>
 
 
-</details>
+<div class ="pt-4"></div>
 
 
+## MCQ Type Basic Idea
 
-##### What is Cyber Security ? Define Torjan , Virus , Worm , Spam
-<details>
-  <summary>Answer</summary>
-  - **Cyber Security** is the protection of computer systems from the theft of or damage to their hardware, software, or electronic data,
-  as well as from the disruption or misdirection of the services they provide.
-  The field is becoming more important due to increased reliance on computer systems, the Internet and wireless network
-  standards such as Bluetooth and Wi-Fi, and due to the growth of "smart" devices, including smartphones, televisions, and the
-  various devices that constitute the "Internet of things". Due to its complexity, both in terms of politics and technology,
-  cyber security is also one of the major challenges in the contemporary world.
-  - **A Trojan** horse or Trojan is a type of malware that is often disguised as legitimate software. Trojans can be employed by
-  cyber-thieves and hackers trying to gain access to users' systems. Users are typically tricked by some form of social engineering
-  into loading and executing Trojans on their systems.
-  - **Virus:** A computer virus is a type of malicious software that, when executed, replicates itself by modifying other computer
-  programs and inserting its own code. When this replication succeeds, the affected areas are then said to be "infected" with a
-  computer virus.
-  - **Worm:** A computer worm is a standalone malware computer program that replicates itself in order to spread to other computers.
-  Often, it uses a computer network to spread itself, relying on security failures on the target computer to access it.
-  - **Spam:** Spamming is the use of messaging systems to send an unsolicited message, especially advertising, as well as sending
-  messages repeatedly on the same site.
-</details>
+<div className="mb-8"></div>
+<Feature id="highlighting-card">
+1. Programs that multiply like viruses but spread from computer to computer are called as.
 
+    a) Worms
 
+    b) Virus
 
+    d) None Of these
 
-##### Discuss the Cyber Security laws and regulations in USA 2022
-<details>
-  <summary>Answer</summary>
-  **Cyber security laws**
-  The federal government has established these new and revised cyber security laws recently to reinforce its policy in this area. As
-  an example, here are a few: As a society, we need to educate ourselves on the hazards of cybercrime and how to protect ourselves
-  from it. Another purpose is to encourage the sharing of information regarding cyber security dangers and other challenges.
-
-  Data exchanges between businesses and the government may occur acceptably. In July 2014, the measure had already passed the
-  Senate and was signed into law when initially introduced. The Cyber security Enhancement Act was signed into law by President
-  Obama on December 18, 2014. Businesses and governments are working together to enhance cyber security education and
-  research for the general population.
-
-  Exchanges must notify customers immediately after a data breach but no later than 60 days after the incident. The Cyber security
-  Act of 2015 It's the last act! Congress enacted an amendment to the NCCIC non-federal representation legislation on
-  January 1, 2015.
-
-  States have enacted rules to raise public awareness of the hazards connected with enterprises without proper security processes.
-  Golden State citizens may rest easy knowing that their personal information is protected under the Personal Information
-  Protection Act of 2003. In the event of a breach of cyber security regulations, businesses have the option to implement their
-  security measures. This proposal suggests that a company's reputation and financial losses may be prevented if it invests in
-  cyber security measures.
-
-  Success in California has set a precedent that has motivated other states to follow. Legislation for Financial Services in New York
-  City regarding cyber security Threats to an IT infrastructure may come from various sources. There is a more significant risk to
-  data and financial systems than ever before posed by national governments, terrorist groups, as well as individual criminals,
-  according to the DFS. Recently, scammers have been scouring the web for technological flaws to steal personal information
-  stored online.
-
-  Criminals who get access to sensitive information on New Yorkers and companies alike might face life-altering repercussions.
-  Enough legislation is required to keep cyber security systems up to date. This law protects both IT firms and their consumer's
-  private information. To satisfy this standard, an evaluation of the company's risks and a detailed risk management strategy
-  are required. When New York's new Cyber Security law went into force on March 1, 2017
-
-  Annual certification of compliance to the New York State Department of Financial Services has been completed for this calendar
-  year. The last chapter has been completed, and the story is ended for good. Federal authorities have implemented several
-  measures in response to current cyber threats to help companies better secure their data. Despite the government's best
-  efforts, the administration's networks continue to be hacked.Same holds for private companies. Businesses should
-  place a high focus on protecting their most important data and applications. Daily, cyber-thieves attacks get more complex. The
-  ideal strategy for any company is to prevent issues from arising in the first place.
-
-  HIPAA, Gramm-Leach-BIiIey Act, and the Homeland Security Act are the three most crucial federal cyber security laws in effect
-  today. These three requirements necessitate that healthcare, financial, and government entities ensure the security of their
-  systems and data. In any case, It's hard to predict whether an acceptable level of protection would be successful. The Federal
-  Information Security Management Act (FISMA) mandates that all federal agencies implement information security policies,
-  concepts, and standards. This list excludes Internet service providers and software developers. Standards use of vague
-  language makes this more challenging.
-</details>
-
-
-##### What is the cyber world?
-
-<details>
+    c) Boot
+</Feature>
+<details class= "font-bold pt-4">
 <summary>Answer</summary>
-  The concept of cyber space was firstly used in the novel called as "Neuromancer", which was written in 1984 by William Gibson.
-  In the book, it is described that Case, who was characterized as a thief, connected to the systems of large employers in cyberspace
-  by using a jack (Gibson, 2016). As a result of the developments in the internet and informatics world, the usage purposes of the
-  computer and technologies of the society have diversified and the usage rate has increased. The virtual world, which has been
-  formed in line with the opportunities that are offered by the internet and technological developments, is called cyber space. The
-  concept of cyber space is also known as "cyber zone" or "cyber world".
-  Cyber space is defined, in the national strategy document, as "the digital environment consisting of information systems that have
-  spread all over the world, and of space and networks that connect them, or of independent information systems" Therefore,
-  through the concept of cyber space, the non-real (virtual reality) environment with the help of the communication, which is
-  established, via the internet, is defined. The internet is often referred to in the concept of cyber space, but the concept also
-  includes telephone, telex, radio and television, which can be used with a remote control, apart from the internet, and sound and
-  images, films, photographs, graphics and books that can be recorded.
-</details>
-
-
-##### What is internet and online resources?
-
-<details>
-  <summary>Answer</summary>
-  **Internet:** The Internet, sometimes called simply "the Net," is a worldwide system of computer networks - a network of networks
-  in which users at any one computer can, if they have permission, get information from any other computer (and sometimes talk
-  directly to users at other computers).
-
-  **Benefits of the Internet:**
-  - 1. Access to endless information, knowledge, and education.
-  - 2. An increased ability to communicate, connect and share.
-  - 3. The ability to work from home, collaborate and access a global workforce.
-  - 4. Online resources: In general, web pages and documents on the internet that provide useful information are known as
-  online resources. While an online resource is archetypal data and educational in nature, support software available online
-  can also be considered a resource.
-
-  **Types of online resources:**
-  There are many different types of online resources, some of them are appropriate for research and some are not. It really
-  depends on the type of content you are looking for. Here are a few that you may find useful for research:
-  - 1. Current information such as stock quotes, sports scores, weather, and news
-  - 2. Books and journal articles can take a long time to publish. For current information and news, the web can't be beaten.
-  Examples: CNN, ESPN, NYSE
-  - 3. Information on colleges, museums, government agencies or non-profit organizations
-  - 4. If you're doing research on a specific company or institution, you can find a lot of information directly at the source.
-  Examples: Department of Environmental Conservation, Metropolitan Museum of Art, Network for Good
-  - 5. Online job postings, shopping, auctions, or travel services
-  - 6. While these sources may not be used in research often, they're still the best at the type of content they offer. Examples:
-  eBay, Etsy, Orbitz
-  - 7. Library databases, scholarly journals, and eBooks
-  - 8. These types of scholarly sources can be found by starting at the RIT library website. Examples: Ebook Central via ProQuest,
-  ARTstor, Journal of Applied Economics
+    a) Worms
 
 </details>
 
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
-##### Explain the data security consideration?
 
-<details>
-  <summary>Answer</summary>
-  **Data security** is the protection of programs and data in computers and communication systems against unauthorized access,
-  modification, destruction, disclosure or transfer whether accidental or intentional by building physical arrangements and
-  software checks. It refers to the right of individuals or organizations to deny or restrict the collection and use of information
-  about unauthorized access. Data security requires system managers to reduce unauthorized access to the systems by building
-  physical arrangements and software checks.
 
-  **Data security uses various methods to make sure that the data is correct, original, kept confidentially, and safe. It includes-**
+<Feature id="highlighting-card">
+2. Which Of the following is a cybercrime?
 
-  - 1. Ensuring the integrity of data.
-  - 2. Ensuring the privacy of the data.
-  - 3. Prevent the loss or destruction of data.
-  - 4. Data security consideration involves the protection of data against unauthorized access, modification, destruction, loss,
-  disclosure, or transfer whether accidental or intentional.
+    a) Hacking
+
+    b) Cyber bulling
+
+    d) All of these
+
+    c) Virus attack
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    d) All of these
+</details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+<Feature id="highlighting-card">
+    3. DLL stands for
+
+    a) Dynamic Link Library
+
+    c) Link Library
+
+
+    b) Digital Link Library
+
+    d) Domain Link Library
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    a) Dynamic Link Library
 
 </details>
 
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
-##### What is the meaning of security of information? What is information security example?
 
-<details>
-  <summary>Answer</summary>
-  Information Security is not only about securing information from unauthorized access. Information Security is basically the
-  practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording, or destruction of
-  information. Information can be physical or electronic. Information can be anything like Your details or we can say your profile on
-  social media, your data on your mobile phone, your biometrics, etc. Thus, Information Security spans so many research areas like
-  Cryptography, Mobile Computing, Cyber Forensics, online social media, etc.
-  During First World War, Multi-tier Classification System was developed keeping in mind the sensitivity of the information. With
-  the beginning of the Second World War formal alignment of the Classification System was done. Alan Turing was the one who
-  successfully decrypted Enigma Machine which was used by Germans to encrypt warfare data.
 
-  **Information security example,**
 
-       - Passwords, network and host-based firewalls, network intrusion detection systems, access control lists, and data
-  encryption are examples of logical controls.
+<Feature id="highlighting-card">
+    4. Hackers who release information to the public is
+
+    a) a black hat
+
+    b) a grey hat
+
+    c) a white hat
+
+    d) a brown hat
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    b) a grey hat
 </details>
 
-##### What are the 3 principles of information security?
-
-<details>
-  <summary>Answer</summary>
-  When we discuss data and information, we must consider the CIA triad. The CIA triad refers to an information security model
-  made up of three main components: confidentiality, integrity, and availability. Each component represents a fundamental
-  objective of information security.
-
-  **The three components of the CIA triad are discussed below:**
-
-  - **1. Confidentiality:** This component is often associated with secrecy and the use of encryption. Confidentiality in this context
-  means that the data is only available to authorized parties. When information has been kept confidential it means that it
-  has not been compromised by other parties; confidential data are not disclosed to people who do not require them or who
-  should not have access to them. Ensuring confidentiality means that information is organized in terms of who needs to have
-  access, as well as the sensitivity of the data. A breach of confidentiality may take place through different means, for
-  instance, hacking or social engineering.
-  - **2. Integrity:** Data integrity refers to the certainty that the data is not tampered with or degraded during or after submission.
-  It is the certainty that the data has not been subject to unauthorized modification, either intentional or unintentional.
-  There are two points during the transmission process during which the integrity could be compromised: during the upload
-  or transmission of data or during the storage of the document in the database or collection.
-  - **3. Availability:** This means that the information is available to authorized users when it is needed. For a system to
-  demonstrate availability, it must have properly functioning computing systems, security controls, and communication
-  channels. Systems defined as critical (power generation, medical equipment, safety systems) often have extreme
-  requirements related to availability. These systems must be resilient against cyber threats and have safeguards against
-  power outages, hardware failures, and other events that might impact the system's availability.
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
 
+
+<Feature id="highlighting-card">
+    5. Which Of the following is a social Engineering site?
+
+    a) ebay
+
+    b) facebook
+
+    C) amazon
+
+
+    d) CWB
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    a) ebay
 </details>
 
-##### What is the importance of information security? Explain the threats to Information Security?
-
-<details>
-  <summary>Answer</summary>
-  Information security, sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It
-  is part of information risk management.
-
-  **The Importance of Information Security **
-
-  1. Every organization needs protection against cyber-attacks and security threats.
-  2. Cybercrime and malware are constant threats to anyone with an Internet presence, and data breaches are time-consuming
-  and expensive.
-  3. The services of a trustworthy information security provider will mitigate digital information risks and keep systems running
-  without disruption.
-  4. Not all organizations require the same kind or degree of data protection. You have to choose a provider that you can work
-  with from day to day, one that will meet your business's needs.
-  5. A solid relationship with a security services provider gives your organization greater productivity, fewer disruptions, and a
-  better reputation.
-
-  **Threats to Information Security**
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
 
-  1. Information Security threats can be many like Software attacks, theft of intellectual property, identity theft, theft of
-  equipment or information, sabotage, and information extortion.
-  2. The threat can be anything that can take advantage of a vulnerability to breach security and negatively alter, erase, or harm
-  objects or objects of interest.
-  3. Software attacks mean attacks by Viruses, Worms, Trojan Horses, etc. Many users believe that malware, virus, worms, and
-  bots are all same things. But they are not the same, the only similarity is that they all are malicious software that behaves
-  differently.
-  4. Malware is a combination of 2 terms- Malicious and Software. So, Malware basically means malicious software that can be
-  an intrusive program code or anything that is designed to perform malicious operations on the system.
 
+<Feature id="highlighting-card">
 
+    6. Validation Of the source Of information is known as
+
+    a) Confidential
+
+    b) Authentication
+
+    c) Non-repudiation
+
+    d) Data integrity
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+
+    b) Authentication
 
 </details>
 
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
-##### What is meant by digital signature?
 
-<details>
-  <summary>Answer</summary>
-  A digital signature is a mathematical technique which validates the authenticity and integrity of a message, software or digital
-  documents. It allows us to verify the author's name, date and time of signatures, and authenticate the message contents. The
-  digital signature offers far more inherent security and intended to solve the problem of tampering and impersonation
-  (Intentionally copy another person's characteristics) in digital communications.
-  The computer-based business information authentication interrelates both technology and the law. It also calls for cooperation
-  between the people of different professional backgrounds and areas of expertise. The digital signatures are different from other
-  electronic signatures not only in terms of process and result, but also it makes digital signatures more serviceable for legal
-  purposes. Some electronic signatures that legally recognizable as signatures may not be secure as digital signatures and may lead
-  to uncertainty and disputes.
+<Feature id="highlighting-card">
+    7. The Dos attack is one type of
+
+    a) Active Attack
+
+    c) Brute force attack
+
+    b) Passive Attack
+
+    d) None of these
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    a) Active Attack
 </details>
 
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
-##### Mention some applications of Digital Signature?
 
-<details>
-  <summary>Answer</summary>
-  **The important reason to implement digital signatures in communication is:**
 
-  - Authentication
-  - Non-repudiation
-  - Integrity
+<Feature id="highlighting-card">
+    8. Traffic analysis is one type of
 
-  **1. Authentication:** Authentication is a process that verifies the identity of a user who wants to access the system. In the
-  digital signature, authentication helps to authenticate the sources of messages.
+    a) active attack
 
-  **2. Non-repudiation:** non-repudiation means an assurance of something that cannot be denied. It ensures that someone to a
-  contract or communication cannot later deny the authenticity of their signature on a document or in a file or the sending of
-  a message that they originated.
+    c) brute force attack
 
-  **3. Integrity:** Integrity ensures that the message is real and accurate and safeguards from unauthorized user modification
-  during the transmission.
+    b) passive attack
 
-</details>
+    d) none of these
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
 
-##### How digital signatures work?
-
-<details>
-  <summary>Answer</summary>
-  **Digital signatures** are created and verified by using public key cryptography, also known as asymmetric cryptography. By the use
-  of a public key algorithm, such as RSA, one can generate two keys that are mathematically linked- one is a private key, and another
-  is a public key.
-  The user who is creating the digital signature uses their own private key to encrypt the signature-related document. There is only
-  one way to decrypt that document with the use of the signer's public key.
-  This technology requires all the parties to trust that the individual who creates the signature has been able to keep their private
-  key secret. If someone has accessed the signer's private key, there is a possibility that they could create fraudulent signatures in
-  the name of the private key holder.
-
-  **The steps which are followed in creating a digital signature are:**
-
-  1. Select a file to be digitally signed.
-  2. The hash value of the message or file content is calculated. This message or file content is encrypted by using a private key
-  of a sender to form the digital signature.
-  3. Now, the original message or file content along with the digital signature is transmitted.
-  4. The receiver decrypts the digital signature by using the public key of the sender.
-  5. The receiver now has the message or file content and can compute it.
-  6. Comparing these computed messages or file content with the original computed message. The comparison needs to be the
-  same for ensuring integrity.
+    b) passive attack
 
 </details>
 
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
 
-##### What are the types of Digital Signature?
+<Feature id="highlighting-card">
+    9. Chain & Abel is a popular .
 
-<details>
-  <summary>Answer</summary>
+    a) password cracking
 
-  Different document processing platform supports different types of digital signature.
+    c) security
 
-  **They are described below:**
+    b) networking
 
-  **1. Certified Signatures:** The certified digital signature documents display a unique blue ribbon across the top of the
-  document. The certified signature contains the name of the document signer and the certificate issuer which indicate the
-  authorship and authenticity of the document.
+    d) messenger
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
 
-  **2. Approval Signatures:** The approval digital signatures on a document can be used in the organization's business workflow.
-  They help to optimize the organization's approval procedure. The procedure involves capturing approvals made by us and
-  other individuals and embedding them within the PDF document. The approval signatures to include details such as an
-  image of our physical signature, location, date, and official seal.
-
-  **3. Visible Digital Signature:** The visible digital signature allows a user to sign a single document digitally. This signature
-  appears on a document in the same way as signatures are signed on a physical document.
-
-  **4. Invisible Digital Signature:** The invisible digital signatures carry a visual indication of a blue ribbon within a document in
-  the taskbar. We can use invisible digital signatures when we do not have or do not want to display our signature but need to
-  provide the authenticity of the document, its integrity, and its origin.
+    a) password cracking
 
 </details>
 
-##### Explain the principles of Cyber Security?
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
 
-<details>
-  <summary>Answer</summary>
 
-  **Cyber security** for these purposes encompasses the protection of essential information, processes, and systems, connected or
-  stored online, with a broad view across the people, technical, and physical domains.
 
-  **The principles of Cyber Security:**
 
-  **1. The economy of mechanism:** This principle states that Security mechanisms should be as simple and small as possible. The
-  Economy of mechanism principle simplifies the design and implementation of security mechanisms. If the design and
-  implementation are simple and small, fewer possibilities exist for errors. The checking and testing process is less
-  complicated so fewer components need to be tested. Interfaces between security modules are the suspect area which
-  should be as simple as possible. Because Interface modules often make implicit assumptions about input or output
-  parameters or the current system state. If any of these assumptions are wrong, the module's actions may produce
-  unexpected results. A simple security framework facilitates its understanding by developers and users and enables the
-  efficient development and verification of enforcement methods for it.
 
-  **2. Fail-safe defaults:** The Fail-safe defaults principle states that the default configuration of a system should have a
-  conservative protection scheme. This principle also restricts how privileges are initialized when a subject or object is
-  created. Whenever access, privileges/rights, or some security-related attribute is not explicitly granted, it should not be
-  granted access to that object.
+<Feature id="highlighting-card">
+    10. Hacktivism is
 
-  **3. Example:** If we will add a new user to an operating system, the default group of the user should have fewer access rights to
-  files and services.
+    a) Activism
 
-  **4. Least Privilege:** This principle states that a user should only have those privileges that need to complete his task. Its
-  primary function is to control the assignment of rights granted to the user, not the identity of the user. This means that if
-  the boss demands root access to a UNIX system that you administer, he/she should not be given that right unless he/she has
-  a task that requires a such level of access. If possible, the elevated rights of a user identity should be removed as soon as
-  those rights are no longer needed.
+    c) Passive hacking
 
-  **5. Open Design:** This principle states that the security of a mechanism should not depend on the secrecy of its design or
-  implementation. It suggests that complexity does not add security. This principle is the opposite of the approach known as
-  "security through obscurity." This principle not only applies to information such as passwords or cryptographic systems but
-  also to other computer security-related operations. Example: DVD player & Content Scrambling System (CSS) protection.
-  The CSS is a cryptographic algorithm that protects DVD movie disks from unauthorized copying.
 
-  **6. Complete mediation:** The principle of complete mediation restricts the caching of information, which often leads to simpler
-  implementations of mechanisms. The idea of this principle is that access to every object must be checked for compliance
-  with a protection scheme to ensure that they are allowed. As a consequence, there should be wary of performance
-  improvement techniques that save the details of previous authorization checks, since the permissions can change over
-  time. Whenever someone tries to access an object, the system should authenticate the access rights associated with that
-  subject. The subject's access rights are verified once at the initial access, and for subsequent accesses, the system assumes
-  that the same access rights should be accepted for that subject and object. The operating system should mediate all and
-  every access to an object. Example: An online banking website should require users to sign in again after a certain period
-  like we can say, twenty minutes have elapsed.
+    b) Hacking for a cause
 
+    d) Malicious hacking
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    b) Hacking for a cause
 </details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+
+
+<Feature id="highlighting-card">
+    11. Banner grabbing is an example of what?
+
+    a) Passive operating system fingerprinting
+
+    b) Active operating system fingerprinting
+
+    c) Footprinting
+
+    d) Application analysis
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    a) Passive operating system fingerprinting
+</details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+<Feature id="highlighting-card">
+
+    12. What is the full form of CERT/CC?
+
+    a) Computer Engineering Response Team Co-ordination Centre
+
+    b) Computer Emergency Record Team Co-ordination Centre
+
+    c) Computer Emergency Response Team Co-ordination Centre
+
+    d) Computer Engineering Record Team Co-ordination Centre
+
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    c) Computer Emergency Response Team Co-ordination Centre
+</details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+
+
+<Feature id="highlighting-card">
+    13. LDAP stands for
+
+    a) Lightweight Directory Access protocol
+
+    b) Lightweight Data Access Protocol
+
+    c) Lightweight Domain Access Protocol
+
+    d) Lightweight DNS Access protocol
+
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+    a) Lightweight Directory Access protocol
+</details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+
+<Feature id="highlighting-card">
+    14. What is enumeration?
+
+    a) Identifying active systems on the network
+
+    b) Cracking passwords
+
+    c) Identifying users and machine names
+
+    d) Identifying routers and firewalls
+</Feature>
+<details class= "font-bold pt-4">
+    <summary>Answer</summary>
+     (c) Identifying users and machine names
+</details>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+##  Start With Introduction
+
+
+
+
+
+
+
+
+
+###  Conventional & Cyber crime
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+a) Brief comparison between a conventional crime and a cyber crime. b) List the motives and reasons behind cyber crimes.
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+
+
+<Feature>
+    <div className="font-bold opacity-80">
+a) Crime is a social and economic phenomenon and is as old as the human society. Crime
+    is a legal concept and has the sanction of the law. Crime or an offence is "a legal wrong
+    that can be followed by criminal proceedings which may result into punishment."
+    Cyber-crime is the latest and perhaps the most complicated problem in the cyber world.
+    "Cyber crime may be said to be those crime, where either the computer is an object or
+    subject of the conduct constituting crime. "Any criminal activity that uses a computer
+    either as an instrumentality, target or a means for perpetuating further crimes comes
+    within the ambit of cyber crime."There is apparently no distinction between cyber and conventional crime. However on a
+    deep introspection we may say that there exists a fine linc of demarcation between the
+    conventional and cyber crime. The demarcation lies in the involvement of the medium in
+    cases of cyber crime. The prerequisite for cyber crime is that there should be an
+    involvement of the virtual cyber medium at any stage.
+
+
+
+    b) The crimes and criminals in the cyber world vary little from their physical world
+    counterparts. Historically, and today, the same laws are used to prosecute both (ie:
+    trespass, fraud, theft, copyright violation).
+    The motives and profiles of criminals in the virtual world are as varied as in the physical
+    world. Motives include financial benefit, thrill seeking, revenge, knowledge, and beliefs.
+    Where the two worlds begin to diverge is in the lingo being built for the criminal using
+    the computer in his crimes. A script kiddie is someone with a low technical skill level and
+    ofa young age. A hacktivist seeks to further his views by promoting them or striking out
+    at those who hold opposing views. A web defacer targets websites that can be penetrated
+    and changed. Crackers circumvent copy protection mechanisms. Pirates make or
+    distribute unauthorized copies of protected programs or works. Lamers have a low
+    technical skill level and largely reuse the work of others. Phreakers target telephone
+    systems.
+    The term hacker is primarily used to describe those who participate in the insightful or
+    intuitive exploration of systems. These activities are, in of themselves, benign but the
+    term has also become linked with the cyber criminal. The term cracker is generally
+    reserved for hackers with criminal intentions.
+    Hackers often align themselves in groups. They exchange details of their exploits on web
+    sites and through Internet Relay Chat (IRC) messages. They contribute technical
+    knowledge to their group and even participate in collaborative attacks.
+    </div>
+
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+### Strong,Weak,Random Password
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+ Define strong, weak and random password with examples.
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        A password that is difficult to detect by both humans and computer programs, effectively
+        protecting data from unauthorized access. A strong password consists of at least six
+        characters (and the more characters, the stronger the password) that are a combination of
+        letters, numbers and symbols (@, #, $, %, etc.) if allowed. Passwords are typically case-
+        sensitive, so a strong password contains letters in both uppercase and lowercase.
+        Weak passwords refer to any passwords that can be easily guessed, either because it's so
+        personal to a person or because it hardly takes any time to find it via the brute-force
+        method, where a hacker (here, a hacker being anyone who's intent on finding your
+        password, be they a criminal in Belarus or your nosey kids) runs through all possible
+        password options.
+        A random password generator is software program or hardware device that takes input
+        from a random or pseudo-random number generator and automatically generates a
+        password. Random passwords can be generated manually, using simple sources of
+        randomness such as dice or coins, or they can be generated using a computer.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+### Computer Virus and Worm
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+Write down the difference between computer virus and worm
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        A computer virus attaches itself to a program or file enabling it to spread from one
+        computer to another, leaving infections as it travels. Like a human virus, a computer virus
+        can range in severity: some may cause only mildly annoying effects while others can
+        damage your hardware, software or files. Almost all viruses are attached to an executable
+        file, which means the virus may exist on your computer but it actually cannot infect your
+        computer unless you run or open the malicious program.
+        A worm is similar to a virus by design and is considered to be a sub-class of a virus.
+        Worms spread from computer to computer, but unlike a virus, it has the capability to
+        travel without any human action. A worm takes advantage of file or information tranSport
+        features on your system, which is what allows it to travel unaided.
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Software Piracy
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+ What is software piracy? Discuss about the preventive measures against software piracy.
+
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        **1st Part:**
+        Software piracy is the stealing of legally protected software. Under copyright law,
+        software piracy occurs when copyright protected software is copied, distributed, modified
+        or sold. Software piracy is considered direct copyright infringement when it denies
+        copyright holders due compensation for use of their creative works.
+
+        **2nd Part:**
+        Here are some of the tips to prevent or lessen software piracy:
+        Code Key - For the past 5 to 7 years, software developers have devised a plan to lessen
+        or prevent software piracy. This is by using a code key. A code key comes with the
+        software that we buy. Before fully installing the software on our computer, we must
+        provide the specific code key that came with the software. After providing the code key,
+        we can run the software on our computer. The code key also locks after it has been used.
+        This is so that the software cannot be installed on other computers after it has been
+        installed on one. We will have to call the manufacturer of the software to be able to use
+        the code key again. This is not good news to people who pirate software.
+
+
+        **Open Source** - Open source software is described as a free software that anyone can
+        download from the Internet. A lot of different software can are licensed as open source.
+        Open source software are under the license free software license. There are also different
+        upgrades for these open source software that can also be freely downloaded from the
+        Internet. By using open source software, people don't need to worry about spending a lot
+        of money for original copies of software. This will also lessen the number of people who
+        are using pirated software as there are alternative programs that can be used and they do
+        not have to pay fines when they are caught.
+
+
+        **Hardware Key** - A hardware key is a device that is used for anti-piracy. This tool
+        prevents software vendors to distribute their products or use them without authorization
+        from the copyright owner of the software. The hardware key works when it is attached to
+        a computer. It monitors software licensing and enforces licensing of the protected
+        software those are detected on the computer. This tool will lessen software vendors from
+        illegally distributing the software that they have and is a good prevention measure for
+        piracy.
+
+
+        **Anti-Piracy Software** - There are different types of anti-piracy software that are
+        available for free. Anti-piracy software is used to prevent illegal duplication or illegal use
+        of copyrighted software. There is also an anti-piracy software that prevents hackers from
+        getting into the software and copying it without consent from the copyright owner. Some
+        of them are also already integrated on the disks of the software that contains the program.
+        This may also be for piracy music. The anti-piracy association is also looking for other
+        ways to prevent software piracy. Reporting anti-piracy may prevent it from happening.
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+### Hackers, Crackers & Phreakers.
+
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+Explain the difference between Hackers, Crackers and Phreakers.
+
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        A hacker is a person intensely interested in the arcane and recondite workings of any
+        computer operating system. Hackers are most often programmers. As such, hackers
+        obtain advanced knowledge of operating systems and programming languages. They
+        might discover holes within systems and the reasons for such holes. Hackers constantly
+        seek further knowledge, freely share what they have discovered, and never intentionally
+        damage data.
+
+        A cracker is one who breaks into or otherwise violates the system integrity of remote
+        machines with malicious intent. Having gained unauthorized access, crackers destroy
+        vital data, deny legitimate users service, or cause problems for their targets. Crackers can
+        easily be identified because their actions are malicious.
+
+
+        Phreaks (or phreakers) are usually motivated more by technical curiosity and the hacker
+        ethos than any criminal intent (although phreaking is most certainly illegal). To bounce a
+        call through a dozen different switching systems around the world, to our friend next
+        door - all for free - is regarded by phreaks as an accomplishment. The fact that they are
+        committing fraud and felonies in the process is regarded as incidental - or perhaps part of
+        the fun.
+
+
+    </div>
+
+
+
+</Feature>
+
+<Callout type="info" emoji="💡" >
+For Easy Understanding, you can read the below article.
+</Callout>
+**Hacker**                                                                                                     | **Cracker**
+----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------
+**The good people who hack for knowledge purposes.**                                                           | The evil person who breaks into a system for benefits.
+**They are skilled and have a advance knowledge of computers OS and programming languages.**                   | They may or may not be skilled, some of crackers just knows a few tricks to steal data.
+**They work in an organisation to help protecting there data and giving them expertise on internet security.** | These are the person from which hackers protect organisations .
+**Hackers share the knowledge and never damages the data.**                                                    | If they found any loop hole they just delete the data or damages the data.
+**Hackers are the ethical professionals.**                                                                     | Crackers are unethical and want to benifit themselves from illegal tasks.
+**Hackers program or hacks to check the integrity and vulnerability strength of a network.**                   | Crackers do not make new tools but use someone else tools for there cause and harm the network.
+**Hackers have legal certificates with them e.g CEH certificates.**                                            | Crackers may or may not have certificates, as there motive is to stay annonymous.
+**They are known as White hats or saviors.**                                                                   | They are known as Black hats or evildoers.
+
+
+
+<u className="font-bold">Hackers</u>
+
+- He is the one who is curious about workings of any computer software.
+- Very often they are no other than unit of smart programmers.
+- They have advanced knowledge of operating system and programming language.
+- They require data concerned with variety of security holes, so they can exploit and damage or steal knowledge.
+
+
+<u className="font-bold">Crackers</u>
+
+- They are the ones who break into different systems with malicious intent.
+- They carry out activities like making unauthorized access, destroying necessary information, stopping services provided by server, etc.
+- Crackers can easily be identified because their actions are malicious.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" }} src="https://itcompsengg.files.wordpress.com/2020/07/img_20200707_223826.jpg?w=512"/>
+</p>
+<u className="font-bold">Phreakers</u>
+
+- They are the ones who gain illegal access to the telephone system.
+- They are considered to be the original computer hackers as they are the ones who break into telephone system illegally and make long distance calls.
+- Phreaker word is a combination of, “Phone” + “Freak”.
+- Earlier, Phreakers whistled or used an instrument to mimic tones of phone system operators to route calls and identify payments to avoid paying for an expensive call. Thus, they basically attack phone systems to obtain free phone access or using the phone line to transmit viruses and access, steal and destroy data
+- Now, they break into company’s system and manipulate data.
+
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+### Cybercriminals plan attack
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+ How do cybercriminals plan attack?
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+
+        Cyber Criminals use many tools and methods to locate vulnerability of their victim.
+        Following are three major phases involved in planning of cyber crime:
+
+        **1. Reconnaissance:** "Reconnaissance" means an act of reconnoitring. In this phase
+        attacker try to explore and gain every possible information about target. They use active
+        and passive attacks to get this information.
+
+        **2. Scanning and Scrutinizing:** In this phase attacker collects validity of information as
+        well as finds out existing vulnerabilities. It is the key phase before actual attack happens.
+
+        - Port scanning: Identify all ports and services (open / closed)
+        - Network scanning: Verify IP address and network information before cyber
+        attacks.
+        - Vulnerability scanning: Checking loop hole in system.
+
+
+        **3. Launching an attack:** Using the information gathered in the previous step, they attack
+        the target system to gain confidential information about individuals or organizations. The
+        attack is launched using the following steps:
+
+
+        - Crack the password.
+        - Exploit the privilege
+        - Execute malicious command
+        - Hide the files
+        - Cover the track.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### LDAP and RAS security
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+    Explain LDAP and RAS security for mobile devices. Discuss the implication for mobile devices.
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        **1St part:**
+        **LDAP:** The Lightweight Directory Access Protocol is one of the core protocols that was
+        developed for directory services. LDAP is used to distribute lists of information
+        organized into directory information trees, which are stored within a LDAP database.
+        However, in order to access information stored within an LDAP database, the user must
+        first authenticate their identity. It can deliver LDAP authentication as a cloud based
+        service.
+
+        It is a software protocol for enabling anyone to locate organizations, individuals and other
+        resources such as files and devices in a network, whether on the public internet. It is a
+        lightweight version of Directory Access Protocol which is part of X.500, a standard for
+        directory services in a network.
+
+        **RAS security for mobile devices:**
+
+        RAS provides security features to be ensure that corporate data remains secure even
+        available over the wide area network. In mobile devices;
+
+        1. It can robust the system.
+        2. Protecting corporation data and guarding the network against threats.
+        3. Highly definable permissions.
+
+
+    </div>
+</Feature>
+<Callout type="info" emoji="💡" >
+    For Easy Understanding, you can read the below article.
+</Callout>
+**Ras**
+
+- RAS(Remote Access Server) is a type of server that provides services to remotely connected users over a network or the Internet
+- This software is designed to provide authentication, connectivity and resource access services to connecting users.
+- Once connected with a RAS, a user can access his or her data, desktop, application, print and/or other supported services.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden", width:"70%" }} src="https://luminfire.com/wp-content/uploads/2017/11/remote-access-for-your-on-site-filemaker-server.png"/>
+
+</p>
+
+
+**LDAP**
+- LDAP is a protocol that allows you to access and manage information stored in a directory.
+- LDAP (Lightweight Directory Access Protocol) is one of the core protocols that was developed for directory services (the process of securely managing users and their access rights to IT resources)
+
+
+<p align="center">
+    <img style={{border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2021-03/how-ldap-works.png?itok=KPHB6M5H"/>
+</p>
+
+
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Forgery Explain
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+What do you mean by the term forgery? Explain with example.
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        Forgery includes imitation of original paper or online documents for the intent to harm
+        reputation, or cheat, individual or a group by means of telecommunication network is
+        forgery. It includes fraudulent transaction of credit cards, postage stamps, seals, currency,
+        immigration documents, signatures, bank checks, academic credentials, digital signatures
+        on electronic documents, even medicines.
+        Example: In year 2008, a cyber crime originated in UK, named as DarkMarket used to
+        sell credit card, login information's to members who used to commit financial crimes and
+        fraudulent transactions.
+
+        <p align="center">
+            <img style={{ marginTop:"12px", border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden", width:"80%"  }} src="https://149360532.v2.pressablecdn.com/wp-content/uploads/sites/2/2019/10/Teal-Simple-Comparison-Chart-1.png"/>
+        </p>
+
+
+    </div>
+</Feature>
+
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Maximum penalty for forgery
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+    What is the maximum penalty for forgery?
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        If caught under the act of forgery, defined under Indian Penal Code section 463, 464 an
+        offender will be punished with imprisonment from three to five years or will be charged
+        with a fine upto 2 lakhs or both.
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+### Classifications of hackers
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+What are the classifications of hackers?
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        Hackers are categorized into three kinds as black hat or crackers, white hat or ethical
+        hackers, and grey hackers. Black hat hackers are normally crackers. They tamper website
+        contents, forward spams, flood the network, and impersonate accounts. They always have
+        malicious intent. White hat persons are ethical hackers who is responsible for finding the
+        loopholes of a system. Industries employ white hats to find security cracks in the system
+        or they are also employed if any attack has taken place. Study reports revealed that most
+        of the industrial attacks are from inside. Someone who knows the security system very
+        well and uses this skill to pose a threat to the organization can be called as grey hat. They
+        behave ethical sometimes and crackers at other times.
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+###  Store passwords for System
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+    What are the files that store passwords for Windows and Linux?
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        Windows stores encrypted files in SAM file under system32 while Linux stores
+        passwords in /etc/shadow file.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Password hacking methods
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+What are the different types of password hacking method?
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        There are two different categories for password hacking one is active and another is
+        passive. Passive attack includes sniffing, masquerading, eavesdropping or playing man in
+        the middle attack, dictionary attack, brute force attack. Active attack can include
+        guessing, shoulder surfing, or social engineering.
+
+    </div>
+</Feature>
+
+<Callout type="info" emoji="💡" >
+    For Easy Understanding, you can read the below article.
+</Callout>
+**Passive attack**
+
+- Sniffing - In its simplest form, sniffing is the act of intercepting and monitoring traffic on a network.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"50%" }} src="https://pimages.toolbox.com/wp-content/uploads/2022/05/10070039/How-a-Packet-Sniffing-Attack-Works.png"/>
+</p>
+
+
+- Masquerading - Masquerading is a type of attack that involves the use of a fake IP address to hide the true identity of the attacker.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://cdn.ttgtmedia.com/rms/onlineimages/masquerade_attack-f.png"/>
+</p>
+
+
+- Eavesdropping - Eavesdropping is the act of listening to a conversation without the knowledge of the participants.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://assets.website-files.com/5ff66329429d880392f6cba2/611df702daa523a706d78408_Eavesdropping%20Attack%20work.png"/>
+</p>
+
+- Dictionary attack - Dictionary attack is a type of brute force attack that uses a list of words to guess passwords.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://www.thesslstore.com/blog/wp-content/uploads/2021/06/how-dictionary-attack-works.png"/>
+</p>
+
+- Brute force attack - Brute force attack is a type of attack that uses a trial-and-error method to guess passwords.
+
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://now.symassets.com/content/dam/norton/global/images/non-product/misc/tlc/in-post-01-guest-networks-simplified.png"/>
+</p>
+
+**Active attack**
+
+- Guessing - An attack in which an attacker performs repeated logon trials by guessing possible values of the authenticator output.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://www.sentinelone.com/wp-content/uploads/2018/07/Detecting-Brute-Force-Password-Attacks-1-1024x536.png"/>
+</p>
+
+- Shoulder surfing -  A shoulder surfing attack describes a situation where the attacker can physically view the device screen and keypad to obtain personal information.
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://www.researchgate.net/publication/343109001/figure/fig1/AS:917437771943936@1595745618527/Shoulder-surfing-attack-threat-model.ppm"/>
+</p>
+
+- Social engineering - Social engineering is the art of manipulating people so they give up confidential or personal information.
+
+
+<p align="center">
+    <img style={{ border:"solid #888", position: "relative" ,opacity: 1 ,borderRadius: "20px" ,overflow: "hidden" , width:"70%" }} src="https://now.symassets.com/content/dam/norton/global/images/non-product/misc/tlc/in-post-01-social-engineering-explained.png"/>
+</p>
+
+
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+### Social Engineering , MITM
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+ Define the terms social engineering, man in the middle attack.
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        **Social engineering:** It is psychological manipulation of persons ultimately gaining their
+        trust to reveal confidential information about the organization or the system. There are
+        different types of social engineering techniques used to lure a victim to reveal secret
+        ation. Hackers use o less ood nature to make this kind of access into organization. Pretexting, vishing, tailgating etc. are the normally used as social
+        engineering methods.
+
+        **Man-in-the middle attack:** Attacker acts in between server and client connection. He
+        splits the TCP connection into two and acts as server to the client and a client to the
+        server. Any message is intercepted by the attacker and he is able to manipulate both client
+        and server in his own way.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Eavesdropping & Hybrid attack
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+What is eavesdropping and hybrid attack?
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+
+        - Eavesdropping: It is snooping into conversation of unsuspecting parties over
+        telephone lines, instant messages, Wireless LANs, etc. Attacker use tools like
+        Air snort, Ethereal and sniff around in any forms of communication that is
+        considered to be private. This includes capturing of network packet in the
+        communication medium.
+
+        - Hybrid attack: It is a password attack which combines the flavor of dictionary
+        attack and brute force attack.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+## Advance Introduction
+
+
+
+
+### Cybercrime , Attacks , Hacking
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+    a) Define Cybercrime? Discuss about various types of Cybercrime.
+
+    b) Discuss about email spoofing and email spamming.
+
+    c) What is Reconnaissance in the world of Hacking?
+
+    d) What is Salami Attack?
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        a) **1st Part:**
+        Identity theft is a form of stealing someone's personal information and pretending to be
+        that person in order to obtain financial resources or other benefits in that person's name
+        without their consent. Identity theft is considered a cyber crime.
+
+        **2nd Part:**
+        When any crime is committed over the Internet it is referred to as a cyber crime. There
+        are many types of cyber crimes and the most common ones are explained below:
+        Hacking: This is a type of crime wherein a person's computer is broken into so that his
+        personal or sensitive information can be accessed. In the United States, hacking is
+        classified as a felony and punishable as such. This is different from ethical hacking,
+        which many organizations use to check their Internet security protection. In hacking, the
+        criminal uses a variety of software to enter a person's computer and the person may not
+        be aware that his computer is being accessed from a remote location.
+        Theft: This crime occurs when a person violates copyrights and downloads music,
+        movies, games and software. There are even peer sharing websites which encourage
+        software piracy and many of these websites are now being targeted by the FBI. Today,
+        the justice system is addressing this cyber crime and there are laws that prevent people
+        from illegal downloading.
+
+        - Hacking: This is a type of crime wherein a person s computer is broken into so that his
+        personal or sensitive information can be accessed. In the United States, hacking is
+        classified as a felony and punishable as such. This is different from ethical hacking,
+        which many organizations use to check their Internet security protection. In hacking, the
+        criminal uses a variety of software to enter a person's computer and the person may not
+        be aware that his computer is being accessed from a remote location.
+
+        - Theft: This crime occurs when a person violates copyrights and downloads music,
+        movies, games and software. There are even peer sharing websites which encourage
+        software piracy and many of these websites are now being targeted by the FBI. Today,
+        the justice system is addressing this cyber crime and there are laws that prevent people
+        from illegal downloading.
+
+        - Cyber Stalking: This is a kind online harassment wherein the victim is subjected to a
+        barrage of online messages and emails. Typically, these stalkers know their victims and
+        instead of resorting to offline stalking, they use the Internet to stalk. However, if they
+        notice that cyber stalking is not having the desired effect, they begin offline stalking
+        along with cyber stalking to make the victims' lives more miserable.
+
+        - Identity Theft: This has become a major problem with people using the Internet for cash
+        transactions and banking services. In this cyber crime, a criminal accesses data about a
+        person's bank account, credit cards, Social Security, debit card and other sensitive
+        information to siphon money or to buy things online in the victim's name. It can result in
+        major financial losses for the victim and even spoil the victim's credit history.
+
+        - Malicious Software: These are Internet-based software or programs that are used to
+        disrupt a network. The software is used to gain access to a system to steal sensitive
+        information or data or causing damage to software present in the system.
+
+        - Child soliciting and Abuse: This is also a type of cyber crime wherein criminals solicit
+        minors via chat rooms for the purpose of child pornography. The FBI has been spending
+        a lot of time monitoring chat rooms frequented by children with the hopes of reducing
+        and preventing child abuse and soliciting.
+
+
+        b)
+        - Email spamming refers to sending email to thousands and thousands of users —
+        similar to a chain letter. Spamming is often done deliberately to use network resources.
+        Email spamming may be combined with email spoofing, so that it is very difficult to
+        determine the actual originating email address of the sender. Some email systems,
+        including our Microsoft Exchange, have the ability to block incoming mail from a
+        specific address. However, because these individuals change their email addresses
+        frequently, it is difficult to prevent some spam from reaching your email inbox.
+
+        - Email spoofing refers to email that appears to have originated from one source when it
+        was actually sent from another source. Individuals, who are sending "junk" email or
+        "spam", typically want the email to appear to be from an email address that may not
+        exist. This way the email cannot be traced back to the originator.
+
+        c) Reconnaissance is considered the first pre-attack phase and is a systematic attempt to
+        locate, gather, identify, and record information about the target. The hacker seeks to find
+        out as much information as possible abQut the victim. This first step is considered
+        a passive information gathering. As an example, many have probably seen a detective
+        movie in which the policeman waits outside a suspect's house all night and then follows
+        him from a distance when he leaves in the car. That's reconnaissance; it is passive in
+        nature, and, if done correctly, the victim never even knows it is occurring.
+
+        d) Salami attack: A salami attack is a collection of small attacks that result in a larger
+        attack when combined. For example, if an attacker has a collection of stolen credit card
+        numbers, the attacker could 'withdraw small amounts of money from each credit card
+        (possibly unnoticed by the credit card holders). Although each withdrawal is small, the
+        combination of the multiple withdrawals results in a significant sum for the attacker.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+
+
+### Intrusion, Forgery & Attacks
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+    Short note on the following:'
+
+    a) Computer Network Intrusion
+
+    b) Forgery
+
+    c) Passive attack vs. Active attack
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        a) Computer Network Intrusion:
+        A network intrusion is any unauthorized activity on a computer network. Detecting an
+        intrusion depends on the defenders having a clear understanding of how attacks work,
+        In most cases, such unwanted activity absorbs network resources intended for other uses,
+        and nearly always threatens the security of the network and/or its data. properly
+        designing and deploying a network intrusion detection system will help block the
+        intruders.
+        As a first step of defence, here's a brief rundown of popular attack vectors.
+
+        - Asymmetric Routing
+        In this method, the attacker attempts to utilize more than one route to the targeted
+        network device. The idea is to have thc overall attack evade detection by having a
+        significant portion of the offending packets bypass certain network segments and their
+        network intrusion sensors. Networks that are not set up for asymmetric routing are
+        impervious to this attack methodology.
+
+        - Buffer Overflow Attacks
+        This approach attempts to overwrite specific sections of computer memory within a
+        network, replacing normal data in those memory locations with a set of commands that
+        will later be executed as part of the attack. In most cases, the goal is to initiate a denial of
+        service (DOS) situation, or to set up a channel through which the attacker can gain remote
+        access to the network. Accomplishing such attacks is more difficult when network
+        designers keep buffer sizes relatively small, and/or install boundary-checking logic that
+        identifies executable code or lengthy URL strings before it can be written to the buffer.
+
+        - Gateway Interface Scripts
+        The Common Gateway Interface (CGI) is routinely used in networks to support
+        interaction between servers and clients on the Web. But it also provides easy openings—
+        such as "backtracking"—through which attackers can access supposedly secure network
+        system files. When systems fail to include input verification or check for backtrack
+        or the pipe
+        characters, a covert CGI script can easily add the directory label " "
+        character to any file path name and thereby access files that should not be available via
+        the Web.
+
+        - Protocol-Specific Attacks
+        When performing network activities, devices obey specific rules and procedures. These
+        protocols—such as ARP, IP, TCP, UDP, ICMP, and various application protocols—may
+        inadvertently leave openings for network intrusions via protocol impersonation
+        ("spoofing") or malformed protocol messages. For example, Address Resolution Protocol
+        (ARP) does not perform authentication on messages, allowing attackers to execute "man-
+        in-the-middle" attacks. Protocol-specific attacks can easily compromise or even crash
+        targeted devices on a network.
+
+        - Traffic Flooding
+        An ingenious method of network intrusion simply targets network intrusion detection
+        systems by creating traffic loads too heavy for the system to adequately screen. In the
+        resulting congested and chaotic network environment, attackers can sometimes execute
+        an undetected attack and even trigger an undetected "fail-open" condition.
+
+        - Trojans
+        These programs present themselves as benign and do not replicate like a virus or a worm.
+        Instead, they instigate DoS attacks, erase stored data, or open channels to permit system
+        control by outside attackers. Trojans can be introduced into a network from unsuspected
+        online archives and file repositories, most particularly including peer-to-peer file
+        exchanges.
+
+        - Worms
+        A common form of standalone computer virus, worms are any computer code intended to
+        replicate itself without altering authorized program files. Worms often spread through
+        email attachments or the Internet Relay Chat (IRC) protocol. Undetected worms
+        eventually consume so many network resources, such as processor cycles or bandwidth
+        that authorized activity is simply squeezed out. Some worms actively seek out
+        confidential information—such as files containing the word "finance" or
+        communicate such data to attackers lying in wait outside the network.
+
+
+        b) Forgery:
+        Offences of computer forgery and counterfeiting have become rampant as it is very easy
+        to counterfeit a document like birth certificate and use the same to perpetuate any crime.
+        The authenticity of electronic documents hence needs to be safeguarded by making
+        forgery with the help of computers abs explicit offence punishable by law.
+        When a perpetrator alters documents stored in computerized form, the crime committed
+        may be forgery. In this instance, computer systems are the target of criminal activity.
+        Computers, however, can also be used as instruments with which to commit forgery. A
+        new generation of fraudulent alteration or counterfeiting emerged when computerized
+        color laser copiers became available. These copiers are capable of high-resolution
+        copying, modification of documents, and even the creation of false documents without
+        benefit of an original, and they produce documents whose quality is indistinguishable
+        from that of authentic documents except by an expert.
+        These schemes take very little computer knowledge to perpetrate. Counterfeit checks,
+        invoices and stationery can be produced using scanners, color printers, and graphics
+        software. Such forgeries are difficult to detect for the untrained eye. It is relatively easy
+        to scan a logo into a completer system and go from there.
+
+
+        c) Passive attack vs. Active attack:
+        Active attacks alter the system or network operations while passive attack gathers
+        information about the system without altering the system. Active attack can involve
+        infecting the system with virus or worms or can span upto deleting the entire hard drive.
+        Normally passive attacks remain undetected. Active attack can flood the entire network
+        with unnecessary packets and can render it slow while passive attack can sniff network
+        packets without changing them. Passive attackers can know the presence of certain user
+        accounts along with their password while active attackers use this information to render
+        the system useless to the owner.
+
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Criminals , CloudComputing
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+    a) Who are cyber criminals? Discuss about various types of Cybercrime.
+
+    b) Discuss the role of Cloud computing in cyber security.
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        a) 1st Part:
+        A cybercriminal is an individual who commits cybercrimes, where he/she makes use of
+        the computer either as a tool or as a target or as both.
+
+        Cybercriminals use computers in three broad ways:
+
+        - Select computer as their target: These criminals attack other people's
+        computers to perform malicious activities, such as spreading viruses, data theft,
+        identity theft etc.
+        - Uses computer as their weapon: They use the computer to carry out
+        "conventional crime", such as spam, fraud, illegal gambling, etc.
+
+        - Uses computer as their accessory: They use the save stolen or
+        illegal data.
+
+        **2nd Part:**
+        When any crime is committed over the Internet it is referred to as a cyber crime. There
+        are many types of cyber crimes and the most common ones are explained below:
+        Hacking: This is a type of crime wherein a person's computer is broken into so that his
+        personal or sensitive information can be accessed. In the United States, hacking is
+        classified as a felony and punishable as such. This is different from ethical hacking,
+        which many organizations use to check their Internet security protection. In hacking, the
+        criminal uses a variety of software to enter a person's computer and the person may not
+        be aware that his computer is being accessed from a remote location.
+        Theft: This crime occurs when a person violates copyrights and downloads music,
+        movies, games and software. There are even peer sharing websites which encourage
+        software piracy and many of these websites are now being targeted by the FBI. Today,
+        the justice system is addressing this cyber crime and there are laws that prevent people
+        from illegal downloading.
+
+        - Hacking: This is a type of crime wherein a person s computer is broken into so that his
+        personal or sensitive information can be accessed. In the United States, hacking is
+        classified as a felony and punishable as such. This is different from ethical hacking,
+        which many organizations use to check their Internet security protection. In hacking, the
+        criminal uses a variety of software to enter a person's computer and the person may not
+        be aware that his computer is being accessed from a remote location.
+
+        - Theft: This crime occurs when a person violates copyrights and downloads music,
+        movies, games and software. There are even peer sharing websites which encourage
+        software piracy and many of these websites are now being targeted by the FBI. Today,
+        the justice system is addressing this cyber crime and there are laws that prevent people
+        from illegal downloading.
+
+        - Cyber Stalking: This is a kind online harassment wherein the victim is subjected to a
+        barrage of online messages and emails. Typically, these stalkers know their victims and
+        instead of resorting to offline stalking, they use the Internet to stalk. However, if they
+        notice that cyber stalking is not having the desired effect, they begin offline stalking
+        along with cyber stalking to make the victims' lives more miserable.
+
+        - Identity Theft: This has become a major problem with people using the Internet for cash
+        transactions and banking services. In this cyber crime, a criminal accesses data about a
+        person's bank account, credit cards, Social Security, debit card and other sensitive
+        information to siphon money or to buy things online in the victim's name. It can result in
+        major financial losses for the victim and even spoil the victim's credit history.
+
+        - Malicious Software: These are Internet-based software or programs that are used to
+        disrupt a network. The software is used to gain access to a system to steal sensitive
+        information or data or causing damage to software present in the system.
+
+        - Child soliciting and Abuse: This is also a type of cyber crime wherein criminals solicit
+        minors via chat rooms for the purpose of child pornography. The FBI has been spending
+        a lot of time monitoring chat rooms frequented by children with the hopes of reducing
+        and preventing child abuse and soliciting.
+
+
+        b) Cloud computing and cyber security are the two advanced sectors in IT world making
+        huge changes of working pattern in the field. When these two merge it opens a wide
+        range of possibilities. The cloud computing security provides companies with the
+        availability, reliability, and security they need to conduct business in a global
+        marketplace. Advanced cyber security features combine with physical infrastructure to
+        create a comprehensive, secure solution to your cloud computing needs.
+        As companies migrate more and more of their data and infrastructure to the cloud, the
+        question of cloud computing security becomes paramount. Cloud security provides
+        multiple levels of control in a network infrastructure to afford continuity and protection.
+        It's an essential ingredient in creating an environment that works for companies around
+        the world. The benefits of cloud computing can be affordably attained by partnering with
+        advanced private cloud computing providers in a way that doesn't jeopardize your
+        company's security.
+        At a time when cyber attacks are growing worldwide, and high-profile cybercrime such
+        as data theft, ransomware and computer hacks have become the order of the day, experts
+        believe that cloud computing may provide the security against cyber threats that
+        companies need. They reason that Cloud helps security operations respond quicker to
+        threats and focus on business risk as opposed to spending countless hours researching
+        threats and trouble-shooting aging on-premises systems. It also saves a substantial cost
+        for organizations in the long run.
+
+
+
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Social Networking
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+  "Social Networking is increasingly becoming a source Of cybercrime." Explain.
+
+
+
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+
+        As social networking becomes more a part of our daily lives, individuals find this
+        technology an attractive vehicle to perpetrate cyber crimes. Anonymity provided via
+        social networks allows a person to easily portray another user's identity. Cyber criminals
+        exploit such vulnerabilities to steal user credentials, which in turn can be used to breach a
+        company's network infrastructure.
+        The term cyber crime is confirmed as the official crime term as criminals started getting
+        more aggressive over the online and becoming a threat for millions of Internet users.
+        Identity theft is the key threat to many social media users, as millions of online users use
+        their personal information in order to getting registered with one or more social media
+        platforms. Such huge information with personal data of so many people is one of the
+        easiest targets for many cyber criminals. Many users also use their credit or debit card to
+        purchase different products, items or services through these social networking sites. This
+        is why the cyber criminals around the world continuously try to get inside the personal
+        details of many users from those social media platforms.
+        We can minimize the threat of cyber attack or cyber crime by getting a little aware and
+        conscious while using social networking sites.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
+
+
+
+
+
+### Software Piracy
+
+
+<h3 className="text-left font-extrabold md:text-2xl mt-8">
+
+
+    What are the different types of software piracy? What are the risks involved in using pirated software?
+
+</h3>
+<div class ="pt-4"></div>
+<h3 className="text-left font-bold mt-3">Answer</h3>
+<div class ="pt-4"></div>
+
+<Feature>
+    <div className="font-bold opacity-80">
+        1st Part:
+
+        According to some people "Software piracy is copying and use of Software without
+        proper license from the developer. Similarly, simultaneous use of single user license
+        software by multiple users or loading of a single user license software at multiple sites,
+        also amounts to software piracy. Using trial version software for commercial gains is also
+        piracy, Piracy is also can be punishable if you install an pirated software do your work
+        and then delete this software from the machine with enough evidences to show the
+        activity. Any Copyright infringement is the unauthorized use of copyrighted material in a
+        manner that violates one of thc copyright owner's exclusive rights, such as, the right to
+        reproduce or to make derivative works that build upon it. For electronic and audio-visual
+        media, such unauthorized reproduction and distribution Of a copyrighted work is often
+        referred to as piracy (however there is no legal basis for the term 'piracy' There are
+        different types of software piracy such as copying of copyrighted materials and using
+        multiple copies of the same without license. Even if a person installs and uses the copy of
+        the material and then removes it from the system, it will also be reported as software
+        piracy. It includes installation on hard drive or on servers and clients with same version
+        and no license. Ifa company illegally sells the product of another company without their
+        permission or authorization with or without alteration of the original product can be
+        considered as piracy,
+
+        2nd Part:
+        
+        Apart from getting caught and termed a three years of imprisonment, an offender can be
+        charged with fine of Rs 50,000 to Rs 2 lakhs or both. The software can be corrupted or
+        can be of low or degraded quality. The software can contain malware's or Trojans that can
+        cause data theft or may lead to disabled system or infected network. Pirated software can
+        cause reputation loss in a business and can end contracts with the clients.
+
+    </div>
+</Feature>
+
+<div class ="m-10" style={{ border:"solid #483861" , opacity: "0.5", borderRadius: "20px"}  }> </div>
